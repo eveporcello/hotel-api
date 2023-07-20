@@ -1,0 +1,47 @@
+[
+  {
+    "id": "01",
+    "name": "Grand Summit",
+    "capacity": 200,
+    "pool": true,
+    "spa": false,
+    "avgCost": 1000,
+    "skiIn": true
+  },
+  {
+    "id": "02",
+    "name": "Universal Hotel",
+    "capacity": 1000,
+    "pool": true,
+    "spa": true,
+    "avgCost": 300,
+    "skiIn": false
+  },
+  {
+    "id": "03",
+    "name": "Chalet Lodge",
+    "capacity": 100,
+    "pool": false,
+    "spa": false,
+    "avgCost": 250,
+    "skiIn": false
+  },
+  {
+    "id": "04",
+    "name": "Harrison Hostel",
+    "capacity": 500,
+    "pool": false,
+    "spa": false,
+    "avgCost": 50,
+    "skiIn": true
+  },
+  {
+    "id": "05",
+    "name": "Majestic Peak Lodge",
+    "capacity": 300,
+    "pool": true,
+    "spa": true,
+    "avgCost": 1000,
+    "skiIn": true
+  }
+]

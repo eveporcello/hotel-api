@@ -7,7 +7,7 @@
     "spa": false,
     "avgCost": 1000,
     "skiIn": true,
-    "image": "https://images.unsplash.com/photo-1628706713229-49474b9f3969?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80"
+    "image": "https://images.unsplash.com/photo-1628706713229-49474b9f3969"
   },
   {
     "id": "02",
@@ -17,7 +17,7 @@
     "spa": true,
     "avgCost": 300,
     "skiIn": false,
-    "image": "https://images.unsplash.com/photo-1515767160065-1733c5eb680f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    "image": "https://images.unsplash.com/photo-1515767160065-1733c5eb680f"
   },
   {
     "id": "03",
@@ -27,7 +27,7 @@
     "spa": false,
     "avgCost": 250,
     "skiIn": false,
-    "image": "https://images.unsplash.com/photo-1577138565420-9780b78b0ee1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=765&q=80"
+    "image": "https://images.unsplash.com/photo-1577138565420-9780b78b0ee1"
   },
   {
     "id": "04",
@@ -37,7 +37,7 @@
     "spa": false,
     "avgCost": 50,
     "skiIn": true,
-    "image": "https://images.unsplash.com/photo-1528372576471-b300d4b75850?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1078&q=80"
+    "image": "https://images.unsplash.com/photo-1528372576471-b300d4b75850"
   },
   {
     "id": "05",
@@ -47,6 +47,6 @@
     "spa": true,
     "avgCost": 1000,
     "skiIn": true,
-    "image": "https://images.unsplash.com/photo-1519659735554-4afcd5fb6bc6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    "image": "https://images.unsplash.com/photo-1519659735554-4afcd5fb6bc6"
   }
 ]

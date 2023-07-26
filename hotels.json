@@ -7,7 +7,7 @@
     "spa": false,
     "avgCost": 1000,
     "skiIn": true,
-    "image": "https://images.unsplash.com/photo-1628706713229-49474b9f3969"
+    "image": "https://res.cloudinary.com/dp3ycxzgx/image/upload/v1690402326/01_hrp6s6.jpg"
   },
   {
     "id": "02",
@@ -17,7 +17,7 @@
     "spa": true,
     "avgCost": 300,
     "skiIn": false,
-    "image": "https://images.unsplash.com/photo-1515767160065-1733c5eb680f"
+    "image": "https://res.cloudinary.com/dp3ycxzgx/image/upload/v1690402333/03_bszsyf.jpg"
   },
   {
     "id": "03",
@@ -27,7 +27,7 @@
     "spa": false,
     "avgCost": 250,
     "skiIn": false,
-    "image": "https://images.unsplash.com/photo-1577138565420-9780b78b0ee1"
+    "image": "https://res.cloudinary.com/dp3ycxzgx/image/upload/v1690402331/04_ppqtr1.jpg"
   },
   {
     "id": "04",

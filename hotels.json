@@ -6,8 +6,7 @@
     "pool": true,
     "spa": false,
     "avgCost": 1000,
-    "skiIn": true,
-    "image": "https://res.cloudinary.com/dp3ycxzgx/image/upload/v1690402326/01_hrp6s6.jpg"
+    "skiIn": true
   },
   {
     "id": "02",
@@ -16,8 +15,7 @@
     "pool": true,
     "spa": true,
     "avgCost": 300,
-    "skiIn": false,
-    "image": "https://res.cloudinary.com/dp3ycxzgx/image/upload/v1690402333/03_bszsyf.jpg"
+    "skiIn": false
   },
   {
     "id": "03",
@@ -26,8 +24,7 @@
     "pool": false,
     "spa": false,
     "avgCost": 250,
-    "skiIn": false,
-    "image": "https://res.cloudinary.com/dp3ycxzgx/image/upload/v1690402331/04_ppqtr1.jpg"
+    "skiIn": false
   },
   {
     "id": "04",
@@ -36,8 +33,7 @@
     "pool": false,
     "spa": false,
     "avgCost": 50,
-    "skiIn": true,
-    "image": "https://images.unsplash.com/photo-1528372576471-b300d4b75850"
+    "skiIn": true
   },
   {
     "id": "05",
@@ -46,7 +42,6 @@
     "pool": true,
     "spa": true,
     "avgCost": 1000,
-    "skiIn": true,
-    "image": "https://images.unsplash.com/photo-1519659735554-4afcd5fb6bc6"
+    "skiIn": true
   }
 ]
